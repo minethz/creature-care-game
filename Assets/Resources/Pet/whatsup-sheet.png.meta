@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 89f775028178a8d25833c3cc36d04ec1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3487318372376251561
+    second: whatsup-sheet_0
+  - first:
+      213: 3995043717797271935
+    second: whatsup-sheet_1
+  - first:
+      213: 1345721526460415117
+    second: whatsup-sheet_2
+  - first:
+      213: 5063928725187632600
+    second: whatsup-sheet_3
+  - first:
+      213: -9043298952427533857
+    second: whatsup-sheet_4
+  - first:
+      213: -63157617956012955
+    second: whatsup-sheet_5
+  - first:
+      213: -5284706111991525889
+    second: whatsup-sheet_6
+  - first:
+      213: -8606810033714053449
+    second: whatsup-sheet_7
+  - first:
+      213: 2209720128231324464
+    second: whatsup-sheet_8
+  - first:
+      213: 5687355928442962214
+    second: whatsup-sheet_9
+  - first:
+      213: 7128351136786832973
+    second: whatsup-sheet_10
+  - first:
+      213: 4991711222430390828
+    second: whatsup-sheet_11
+  - first:
+      213: -2974219249610581765
+    second: whatsup-sheet_12
+  - first:
+      213: 180830372151529733
+    second: whatsup-sheet_13
+  - first:
+      213: -5929554579453978176
+    second: whatsup-sheet_14
+  - first:
+      213: 4039572069648719309
+    second: whatsup-sheet_15
+  - first:
+      213: -8714959216325736157
+    second: whatsup-sheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whatsup-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 229
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac0e244591756030800000000000000
+      internalID: 3487318372376251561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 229
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79567d381f317730800000000000000
+      internalID: 3995043717797271935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 229
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cf44f2996fca210800000000000000
+      internalID: 1345721526460415117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 229
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd94b08850b64640800000000000000
+      internalID: 5063928725187632600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 229
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd905e6248fbf7280800000000000000
+      internalID: -9043298952427533857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 219
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c3fd82b7e9f1ff0800000000000000
+      internalID: -63157617956012955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 240
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdc86c6ac3f8a6b0800000000000000
+      internalID: -5284706111991525889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 229
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beb43b00e77e8880800000000000000
+      internalID: -8606810033714053449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 4
+        width: 156
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b3240cfb08aae10800000000000000
+      internalID: 2209720128231324464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 156
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6210e02851c8dee40800000000000000
+      internalID: 5687355928442962214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 4
+        width: 156
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e5e6e579dfce260800000000000000
+      internalID: 7128351136786832973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 4
+        width: 156
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a5b4ad8ee164540800000000000000
+      internalID: 4991711222430390828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 4
+        width: 156
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf815deb95379b6d0800000000000000
+      internalID: -2974219249610581765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 4
+        width: 156
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50191b0f340728200800000000000000
+      internalID: 180830372151529733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 4
+        width: 156
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9da5fa68df5bda0800000000000000
+      internalID: -5929554579453978176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 4
+        width: 156
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd500015617f0830800000000000000
+      internalID: 4039572069648719309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whatsup-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 4
+        width: 156
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32943ee34ce3e0780800000000000000
+      internalID: -8714959216325736157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      whatsup-sheet_0: 3487318372376251561
+      whatsup-sheet_1: 3995043717797271935
+      whatsup-sheet_10: 7128351136786832973
+      whatsup-sheet_11: 4991711222430390828
+      whatsup-sheet_12: -2974219249610581765
+      whatsup-sheet_13: 180830372151529733
+      whatsup-sheet_14: -5929554579453978176
+      whatsup-sheet_15: 4039572069648719309
+      whatsup-sheet_16: -8714959216325736157
+      whatsup-sheet_2: 1345721526460415117
+      whatsup-sheet_3: 5063928725187632600
+      whatsup-sheet_4: -9043298952427533857
+      whatsup-sheet_5: -63157617956012955
+      whatsup-sheet_6: -5284706111991525889
+      whatsup-sheet_7: -8606810033714053449
+      whatsup-sheet_8: 2209720128231324464
+      whatsup-sheet_9: 5687355928442962214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

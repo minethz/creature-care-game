@@ -1,0 +1,629 @@
+fileFormatVersion: 2
+guid: 5a6b1b73c3b454526a89b8691b92040b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1032415095797137623
+    second: interogative-sheet_0
+  - first:
+      213: -8792684543394871815
+    second: interogative-sheet_1
+  - first:
+      213: 3712062802646359336
+    second: interogative-sheet_2
+  - first:
+      213: 2262205960635301201
+    second: interogative-sheet_3
+  - first:
+      213: -4169729259554753150
+    second: interogative-sheet_4
+  - first:
+      213: 2867503706163639716
+    second: interogative-sheet_5
+  - first:
+      213: -8126821434679766142
+    second: interogative-sheet_6
+  - first:
+      213: -6086988544958927230
+    second: interogative-sheet_7
+  - first:
+      213: -7290859416679389952
+    second: interogative-sheet_8
+  - first:
+      213: 8432055046529440835
+    second: interogative-sheet_9
+  - first:
+      213: 1319202334534655338
+    second: interogative-sheet_10
+  - first:
+      213: -5606676993000952909
+    second: interogative-sheet_11
+  - first:
+      213: 553525189960796427
+    second: interogative-sheet_12
+  - first:
+      213: 3969079608123932324
+    second: interogative-sheet_13
+  - first:
+      213: -585192270574718152
+    second: interogative-sheet_14
+  - first:
+      213: 133479977525156143
+    second: interogative-sheet_15
+  - first:
+      213: 7276507172770874112
+    second: interogative-sheet_16
+  - first:
+      213: 3005011916069893
+    second: interogative-sheet_17
+  - first:
+      213: -1890020192588639345
+    second: interogative-sheet_18
+  - first:
+      213: -8296431927436467283
+    second: interogative-sheet_19
+  - first:
+      213: -2756085713051419979
+    second: interogative-sheet_20
+  - first:
+      213: 9203872416655456313
+    second: interogative-sheet_21
+  - first:
+      213: 7345723674389095849
+    second: interogative-sheet_22
+  - first:
+      213: 3776326669678939078
+    second: interogative-sheet_23
+  - first:
+      213: 3152452881169743509
+    second: interogative-sheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: interogative-sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 192
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4b25d3501d1496a8584046912c01f7
+      internalID: -905962240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 192
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2cf5c00a8f94494a32900bf7596111
+      internalID: -142003303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 192
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58126cc49bbd24d01aa75518e5ea839b
+      internalID: -931773381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 220
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef445d01c452b40d1914f223e91985b3
+      internalID: -2056362871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 192
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679a404a0e2fc40558ae3b5533ee89c6
+      internalID: 910444436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 6
+        width: 155
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff2dfd4f84664734bd4d3196d25bd02
+      internalID: -288059524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 220
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec70bca3c1af499a9d48755808f953a
+      internalID: -1309017187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 226
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c44aac7c480e4523b2063549b608034
+      internalID: -992122046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 6
+        width: 155
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64170854c2174263ad1612abf5fb202
+      internalID: 1992724025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6
+        width: 154
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6057b12a83ae74c399f3538a4ebdec8c
+      internalID: -1243750561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 6
+        width: 154
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c64ee30fba404dc4a32d58fa4b2f419
+      internalID: 693605114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 6
+        width: 154
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8254ad6db4c00423b9025c85ae961bc8
+      internalID: 1793781670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 6
+        width: 155
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5648e0ee31e496e993fa1a4b15dd21
+      internalID: 1329886821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 6
+        width: 154
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4661cf8edc5c7447fa4f4c8774764910
+      internalID: -1658851739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 6
+        width: 155
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cb7e3093001443dbfcdd1a183b096b
+      internalID: -1555443096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 170
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ced22d6e8bf4979b881ebf27649b9b
+      internalID: 1963754920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 6
+        width: 155
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe8381f8168a44b6b76fc22b53dcaaa
+      internalID: -389242653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 170
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a71701b95c14c7aa3f08d4274c4c2a
+      internalID: -2095056861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interogative-sheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 171
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc50b62cf248c4defba36d8a778654cf
+      internalID: 241784228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e9296924936594d888a6d63993c1ab02
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      interogative-sheet 1_0: -905962240
+      interogative-sheet 1_1: -142003303
+      interogative-sheet 1_10: 693605114
+      interogative-sheet 1_11: 1793781670
+      interogative-sheet 1_12: 1329886821
+      interogative-sheet 1_13: -1658851739
+      interogative-sheet 1_14: -1555443096
+      interogative-sheet 1_15: 1963754920
+      interogative-sheet 1_16: -389242653
+      interogative-sheet 1_17: -2095056861
+      interogative-sheet 1_18: 241784228
+      interogative-sheet 1_2: -931773381
+      interogative-sheet 1_3: -2056362871
+      interogative-sheet 1_4: 910444436
+      interogative-sheet 1_5: -288059524
+      interogative-sheet 1_6: -1309017187
+      interogative-sheet 1_7: -992122046
+      interogative-sheet 1_8: 1992724025
+      interogative-sheet 1_9: -1243750561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

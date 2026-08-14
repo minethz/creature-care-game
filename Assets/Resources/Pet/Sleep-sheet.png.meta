@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: c00164bd0a8845f492ae0abab769424d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5845669902523603598
+    second: Sleep-sheet_0
+  - first:
+      213: 688464150588825152
+    second: Sleep-sheet_1
+  - first:
+      213: -9145742439566137648
+    second: Sleep-sheet_2
+  - first:
+      213: -7993593054934859089
+    second: Sleep-sheet_3
+  - first:
+      213: 934577036686090012
+    second: Sleep-sheet_4
+  - first:
+      213: -4369661972265148521
+    second: Sleep-sheet_5
+  - first:
+      213: -4361380559891315665
+    second: Sleep-sheet_6
+  - first:
+      213: 5622531003670922097
+    second: Sleep-sheet_7
+  - first:
+      213: 3638988953897477227
+    second: Sleep-sheet_8
+  - first:
+      213: 6297185142392938559
+    second: Sleep-sheet_9
+  - first:
+      213: -999384806664432044
+    second: Sleep-sheet_10
+  - first:
+      213: -1718868239538520172
+    second: Sleep-sheet_11
+  - first:
+      213: 194458187352171620
+    second: Sleep-sheet_12
+  - first:
+      213: 283937068682555863
+    second: Sleep-sheet_13
+  - first:
+      213: 4946286965123824255
+    second: Sleep-sheet_14
+  - first:
+      213: -1500876436850575486
+    second: Sleep-sheet_15
+  - first:
+      213: 8319589152396218736
+    second: Sleep-sheet_16
+  - first:
+      213: -1604087396886329387
+    second: Sleep-sheet_17
+  - first:
+      213: -3275137785012395685
+    second: Sleep-sheet_18
+  - first:
+      213: -8042953251695210771
+    second: Sleep-sheet_19
+  - first:
+      213: 6680142256980661924
+    second: Sleep-sheet_20
+  - first:
+      213: 3143498905030778726
+    second: Sleep-sheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sleep-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 162
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27563e1023200eea0800000000000000
+      internalID: -5845669902523603598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 162
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e10705f7aed8900800000000000000
+      internalID: 688464150588825152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 162
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6227a15bbc31180800000000000000
+      internalID: -9145742439566137648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 162
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa20499e77d011190800000000000000
+      internalID: -7993593054934859089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 162
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f59eefcd848fc00800000000000000
+      internalID: 934577036686090012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 162
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f5a927697db53c0800000000000000
+      internalID: -4369661972265148521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 162
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2442650d734973c0800000000000000
+      internalID: -4361380559891315665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 162
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1730d6c882e370e40800000000000000
+      internalID: 5622531003670922097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 162
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6421a26c29408230800000000000000
+      internalID: 3638988953897477227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 162
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30e239e588146750800000000000000
+      internalID: 6297185142392938559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 37
+        width: 205
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45618d430d87122f0800000000000000
+      internalID: -999384806664432044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 37
+        width: 202
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ffa9e617a5528e0800000000000000
+      internalID: -1718868239538520172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 37
+        width: 200
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464eacce0bad2b200800000000000000
+      internalID: 194458187352171620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 29
+        width: 200
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1b365724fb0f300800000000000000
+      internalID: 283937068682555863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 26
+        width: 202
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ab959c9cdb4a440800000000000000
+      internalID: 4946286965123824255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 28
+        width: 205
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28774c925d0db2be0800000000000000
+      internalID: -1500876436850575486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 37
+        width: 205
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07115c9414e157370800000000000000
+      internalID: 8319589152396218736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 37
+        width: 205
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7c8e7e2032db9e0800000000000000
+      internalID: -1604087396886329387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 37
+        width: 205
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5160e5798f5c82d0800000000000000
+      internalID: -3275137785012395685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 37
+        width: 205
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee42a781a0b16090800000000000000
+      internalID: -8042953251695210771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 37
+        width: 205
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a698646df1a4bc50800000000000000
+      internalID: 6680142256980661924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sleep-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 22
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f50326993ff9b20800000000000000
+      internalID: 3143498905030778726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sleep-sheet_0: -5845669902523603598
+      Sleep-sheet_1: 688464150588825152
+      Sleep-sheet_2: -9145742439566137648
+      Sleep-sheet_3: -7993593054934859089
+      Sleep-sheet_4: 934577036686090012
+      Sleep-sheet_5: -4369661972265148521
+      Sleep-sheet_6: -4361380559891315665
+      Sleep-sheet_7: 5622531003670922097
+      Sleep-sheet_8: 3638988953897477227
+      Sleep-sheet_9: 6297185142392938559
+      Sleep-sheet_10: -999384806664432044
+      Sleep-sheet_11: -1718868239538520172
+      Sleep-sheet_12: 194458187352171620
+      Sleep-sheet_13: 283937068682555863
+      Sleep-sheet_14: 4946286965123824255
+      Sleep-sheet_15: -1500876436850575486
+      Sleep-sheet_16: 8319589152396218736
+      Sleep-sheet_17: -1604087396886329387
+      Sleep-sheet_18: -3275137785012395685
+      Sleep-sheet_19: -8042953251695210771
+      Sleep-sheet_20: 6680142256980661924
+      Sleep-sheet_21: 3143498905030778726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
